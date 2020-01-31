@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello, world!
 Еще одна строчка.Hello, Git!
+=======
+Hello, world!
+>>>>>>> 71d3f478f14875d65d99ed3d79336948aa3c8723
